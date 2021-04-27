@@ -19,7 +19,7 @@ While keep adding more features and learning more about the topic I got the visi
 just a "library" won't solve it, it's time to step up the game and build an application
 with more systematic approach!
 
-🔭 So currently I’m working on [Codecrumbs v2](https://codecrumbs.io), which standalone application with many cool features! Check out [project here](https://codecrumbs.io).
+🔭  So currently I’m working on [Codecrumbs v2](https://codecrumbs.io), which standalone application with many cool features! Check out [project here](https://codecrumbs.io).
 <br />
 <br />
 
