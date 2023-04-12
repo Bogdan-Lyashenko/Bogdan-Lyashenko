@@ -1,4 +1,3 @@
-<img src = "https://github-readme-stats.vercel.app/api?username=Bogdan-Lyashenko&show_icons=true&hide=prs,issues,commits,contribs" />
  
 My name is [Bohdan](https://www.linkedin.com/in/bohdan-liashenko-bb365854) and reading source code is my hobby and passion.
 <br />
